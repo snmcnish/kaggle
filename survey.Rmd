@@ -1,15 +1,6 @@
 ---
-output:
-  html_document:
-    collapsed: no
-    df_print: paged
-    theme: cosmo
-    toc: yes
-    toc_depth: 2
-    toc_float: no
-  pdf_document:
-    toc: yes
-    toc_depth: '2'
+
+output: github_document
 ---
 
 ```{r setup, include=FALSE}
